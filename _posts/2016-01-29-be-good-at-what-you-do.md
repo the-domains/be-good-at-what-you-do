@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:58:24.802Z'
-dateModified: '2016-02-01T11:58:22.012Z'
+datePublished: '2016-02-01T12:02:20.596Z'
+dateModified: '2016-02-01T12:02:16.869Z'
 title: "\_Be Good at what you do! You have to be passionate to be successful."
 author: []
 sourcePath: _posts/2016-01-29-be-good-at-what-you-do.md
@@ -26,4 +26,3 @@ _type: WebPage
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9863fb1dafcdfcaddba48c62de93331ab5b595fa.jpg)
 
 # Be Good at what you do! You have to be passionate to be successful.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/681e0140a239574fb1a952e48221733effdf1246.png)
