@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Be good at what you do!]]></title>
+        <description><![CDATA[Be good at what you do!]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 11:44:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ Be Good at what you do! You have to be passionate to be successful.]]></title>
+            <description><![CDATA[<article><h1> Be Good at what you do! You have to be passionate to be successful.</h1><p>Rafael Cifuentes 2016 Internacional Relations and Economics</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e4cae99b10180f4f0791608b634bfda23386c85.png"></article>]]></description>
+            <link>http://www.maxwell.syr.edu/DC/DC_Profiles/Rafael_Cifuentes__16,_IR___ECON__16/</link>
+            <guid isPermaLink="false">3367b0f1-edc4-4a6d-a757-975392a613d6</guid>
+            <pubDate>Mon, 01 Feb 2016 11:44:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
