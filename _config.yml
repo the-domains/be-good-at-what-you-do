@@ -1,0 +1,28 @@
+name: 'Be good at what you do!'
+favicon: null
+layout_spectrum: 0.7964475385379046
+typography_spectrum: 0.29196670837700367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.23766673519276083
+  lightness: 0.7629161882214248
+  saturation: 0.7012358531355858
+  rhythmicContrast: 0.8416827330365777
+purpose: []
